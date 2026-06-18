@@ -1,1 +1,4 @@
-# BADGES
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
