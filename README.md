@@ -314,10 +314,4 @@ pip install -r requirements.txt
 **Aman Kumar Mishra**
 
 - GitHub: [@AKM](https://github.com/Amankumarm2002)
-- LinkedIn: [AKM](www.linkedin.com/in/aman-kumar-mishra2002)
-
----
-
-<p align="center">
-  <a href="../README.md">← Back to repository root</a>
-</p>
+- LinkedIn: [Aman Kumar Mishra](https://www.linkedin.com/in/aman-kumar-mishra2002)
